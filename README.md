@@ -1,6 +1,7 @@
 # diesel-derive-enum
 [![crates.io](https://img.shields.io/crates/v/diesel-derive-enum.svg)](https://crates.io/crates/diesel-derive-enum)
 ![Build Status](https://github.com/adwhit/diesel-derive-enum/workflows/CI/badge.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdchenk%2Fdiesel-derive-enum.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdchenk%2Fdiesel-derive-enum?ref=badge_shield)
 
 Use Rust enums directly with [`diesel`](https://github.com/diesel-rs/diesel) ORM.
 
@@ -171,3 +172,6 @@ Licensed under either of these:
    https://www.apache.org/licenses/LICENSE-2.0)
  * MIT license ([LICENSE-MIT](LICENSE-MIT) or
    https://opensource.org/licenses/MIT)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdchenk%2Fdiesel-derive-enum.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdchenk%2Fdiesel-derive-enum?ref=badge_large)
